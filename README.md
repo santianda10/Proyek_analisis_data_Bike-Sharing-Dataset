@@ -12,5 +12,5 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
     ```shell
     streamlit run Santianda_Submission_Proyek_Analisis_Data.py
     ```
-    Untuk melihat hasil streamlit anda bisa membuka ini [Proyek_analisis_data](https://submission1726.streamlit.app/)
+    Untuk melihat hasil streamlit anda bisa membuka ini [Proyek_analisis_data](https://santianda1.streamlit.app/)
 
